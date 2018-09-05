@@ -1,19 +1,11 @@
 [
     {
-        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
-        "source": "C:\\Users\\jallen\\.android\\build-cache\\ed1624f174655d6f648769209d5103965f8b795c\\output\\res\\anim\\catalyst_push_up_in.xml"
-    },
-    {
-        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
         "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
         "source": "C:\\Users\\jallen\\.android\\build-cache\\ed1624f174655d6f648769209d5103965f8b795c\\output\\res\\anim\\catalyst_fade_in.xml"
     },
     {
-        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_enter.xml",
@@ -28,12 +20,96 @@
         "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\tooltip_exit.xml"
     },
     {
-        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\32cdbaec50f865017af48295eb189705aa22a502\\output\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
         "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\32cdbaec50f865017af48295eb189705aa22a502\\output\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\ed1624f174655d6f648769209d5103965f8b795c\\output\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\f097ffcdce5f0ad89c58d4ef3c0870a77a6cd404\\output\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\32cdbaec50f865017af48295eb189705aa22a502\\output\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\ed1624f174655d6f648769209d5103965f8b795c\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\32cdbaec50f865017af48295eb189705aa22a502\\output\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
@@ -44,20 +120,16 @@
         "source": "C:\\Users\\jallen\\.android\\build-cache\\ed1624f174655d6f648769209d5103965f8b795c\\output\\res\\anim\\catalyst_fade_out.xml"
     },
     {
-        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
-        "source": "C:\\Users\\jallen\\.android\\build-cache\\ed1624f174655d6f648769209d5103965f8b795c\\output\\res\\anim\\catalyst_slide_down.xml"
-    },
-    {
         "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_exit.xml",
-        "source": "C:\\Users\\jallen\\.android\\build-cache\\f097ffcdce5f0ad89c58d4ef3c0870a77a6cd404\\output\\res\\anim\\abc_tooltip_exit.xml"
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\32cdbaec50f865017af48295eb189705aa22a502\\output\\res\\anim\\catalyst_push_up_in.xml"
     },
     {
-        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\32cdbaec50f865017af48295eb189705aa22a502\\output\\res\\anim\\catalyst_push_up_out.xml"
     },
     {
         "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
@@ -76,7 +148,7 @@
         "source": "C:\\Users\\jallen\\.android\\build-cache\\ed1624f174655d6f648769209d5103965f8b795c\\output\\res\\anim\\catalyst_slide_up.xml"
     },
     {
-        "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\821deb4b71e3fdce00788e21313b1302b3a98684\\output\\res\\anim\\abc_slide_in_bottom.xml"
     }
 ]

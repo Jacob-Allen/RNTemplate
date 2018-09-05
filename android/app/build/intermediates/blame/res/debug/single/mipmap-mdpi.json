@@ -4,6 +4,14 @@
         "source": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Development\\Projects\\RNTemplate\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Development\\Projects\\RNTemplate\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }

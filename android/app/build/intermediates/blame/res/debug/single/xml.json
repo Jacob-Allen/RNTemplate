@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Development\\Projects\\rnbuilddemo\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
         "source": "C:\\Users\\jallen\\.android\\build-cache\\ed1624f174655d6f648769209d5103965f8b795c\\output\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Development\\Projects\\RNTemplate\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\jallen\\.android\\build-cache\\32cdbaec50f865017af48295eb189705aa22a502\\output\\res\\xml\\preferences.xml"
     }
 ]
