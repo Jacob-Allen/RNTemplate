@@ -3,9 +3,10 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    "build-platforms": "cd dist/tools && build_platforms.sh",
+    "build-apk": "cd android && ./gradlew assembleRelease",
     "start": "react-native run-android",
-    "test": "jest",
-    "build-apk": "cd android && ./gradlew assembleRelease"
+    "test": "jest"
   },
   "dependencies": {
     "react": "16.4.1",

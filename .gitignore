@@ -31,6 +31,8 @@ dist/*.ipa
 !www/index.html
 !www/piwik.js
 .gradle
+android
+ios
 
 # Dependency directory
 node_modules
