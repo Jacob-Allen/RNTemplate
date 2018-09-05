@@ -5,6 +5,7 @@
   "scripts": {
     "build-platforms": "cd dist/tools && build_platforms.sh",
     "build-apk": "cd android && ./gradlew assembleRelease && cd ../dist/tools/android_config && ./move_binary_to_dist.sh",
+    "android": "react-native run-android",
     "start": "react-native run-android",
     "test": "jest"
   },
