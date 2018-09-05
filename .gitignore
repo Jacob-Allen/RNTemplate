@@ -17,19 +17,10 @@ lib-cov
 .nyc_output
 coverage
 
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
 # node-waf configuration
 .lock-wscript
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
-build/Release
-www/*
-dist/*.apk
-dist/*.ipa
-!www/index.html
-!www/piwik.js
 .gradle
 android
 ios
@@ -39,14 +30,6 @@ node_modules
 
 # Optional npm cache directory
 .npm
-
-# Optional REPL history
-.node_repl_history
-
-# Cordova files
-platforms
-plugins
-!plugins/cordova-plugin-volumecontrol-master
 
 # Editors
 .idea
